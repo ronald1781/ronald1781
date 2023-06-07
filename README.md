@@ -24,6 +24,17 @@ En la industria de tecnologia con más de doce años.
 </br>
 Y alguna más...
 MICROSERVICIOS/ RXJAVA / ANGULAR
+## Encuéntrame en:
+
+[![YouTube](https://img.shields.io/badge/YouTube-Ronald1781_by_Ronald_Ramos-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@Ronald1781)
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@Ronald1781)
+</br>
+[![Twitter](https://img.shields.io/badge/Twitter-@Ronald1781-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Ronald1781)
+[![Instagram](https://img.shields.io/badge/Instagram-@Ronald1781-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/Ronald1781)
+[![Facebook](https://img.shields.io/badge/Facebook-@Ronald1781-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/Ronald1781)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronald Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/Ronald1781)
+
 
 - 🔭 Estoy trabajando en this page. 
 
